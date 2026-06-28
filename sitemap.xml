@@ -1,8 +1,6 @@
-xml
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlsetg xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://alessio-sannia.github.io/</loc>
-    </loc>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://alessio-sannia.github.io/</loc>
+  </url>
 </urlset>
